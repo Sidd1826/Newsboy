@@ -1,0 +1,12 @@
+Database of name mini
+Table of name minproject
+Column of name 
+FirstName
+Username
+MobileNumber
+Pass
+Session ID
+Cookie Name
+
+Remaining -
+Session Add Karlo
